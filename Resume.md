@@ -18,6 +18,8 @@ Diploma of Multimedia Development (Alison)
 
 Associate Degree in Information Technology (Federation University)
 
+[Code School](https://www.codeschool.com/users/shakna-israel)
+
 SFH (Safe Food Handlers)
 
 ECM (Espresso Coffee Making)
@@ -25,6 +27,12 @@ ECM (Espresso Coffee Making)
 RSG (Responsible Service of Gaming)
 
 ## Experience
+
+**2015-Present Application Developer**
+
+Trevor Clough,
+
+Ballarat Christian College, [03 5337 5900](+610353375900)
 
 **2014-2015 Full Stack Web Developer**
 
