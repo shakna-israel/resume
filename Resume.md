@@ -2,21 +2,15 @@
 
 [0459 528 387](tel:+6159528387)
 
-*Or*
+[james.milne@protonmail.com](mailto:james.milne@protonmail.com)
 
-[03 5334 1990](tel:+610353341990)
-
-[jmilne@graphic-designer.com](mailto:jmilne@graphic-designer.com)
-
-22 Ningana St, Alfredton, Ballarat, VIC, 3350.
+Ballarat, VIC, 3358.
 
 ## Qualifications
 
 Diploma of Web Design (Alison)
 
 Diploma of Multimedia Development (Alison)
-
-Associate Degree in Information Technology (Federation University)
 
 [Code School](https://www.codeschool.com/users/shakna-israel)
 
@@ -28,7 +22,7 @@ RSG (Responsible Service of Gaming)
 
 ## Experience
 
-**2015-Present Application Developer**
+**2015-2016 Application Developer**
 
 Trevor Clough,
 
